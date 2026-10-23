@@ -34,20 +34,6 @@ L'objectif principal était d'appliquer les concepts fondamentaux de la programm
 
 ---
 
-## 🚀 Compilation et Exécution
-
-### 1. Prérequis
-Un compilateur C classique tel que `gcc` ou `clang`.
-
-### 2. Compilation
-Dans votre terminal, exécutez la commande suivante :
-`gcc -O2 main.c -o 2048`
-
-### 3. Lancement
-`./2048`
-
----
-
 ## 🕹️ Commandes de Jeu
 
 - Utilisez les touches configurées (ou flèches directionnelles) pour déplacer les tuiles.
