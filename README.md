@@ -1,11 +1,11 @@
-# 🎮 Jeu du 2048 — Langage C
+# Jeu du 2048 — Langage C
 
 > **Projet académique de L1 Informatique**  
-> ⚠️ *Projet d'évaluation finale comptant pour **50% de la note globale** du module d'algorithmique et de programmation en C.*
+> *Projet d'évaluation finale comptant pour **50% de la note globale** du module d'algorithmique et de programmation en C.*
 
 ---
 
-## 📌 Présentation du Projet
+## Présentation du Projet
 
 Ce projet consiste en une réimplémentation complète du célèbre jeu de réflexion **2048** en **langage C natif**, exécutable directement dans le terminal. 
 
@@ -13,7 +13,7 @@ L'objectif principal était d'appliquer les concepts fondamentaux de la programm
 
 ---
 
-## 🎯 Objectifs Pédagogiques & Défis Techniques
+## Objectifs Pédagogiques & Défis Techniques
 
 - **Manipulation de structures de données :** Gestion et mise à jour dynamique d'une matrice 2D (4x4) représentant le plateau de jeu.
 - **Logique algorithmique de fusion :** Conception de l'algorithme de glissement, de tassement et de fusion conditionnelle des tuiles identiques selon les 4 directions (Haut, Bas, Gauche, Droite).
@@ -22,7 +22,7 @@ L'objectif principal était d'appliquer les concepts fondamentaux de la programm
 
 ---
 
-## 🛠️ Stack & Concepts Utilisés
+## Stack & Concepts Utilisés
 
 - **Langage :** C (C99 / C11)
 - **Concepts clés :**
@@ -34,14 +34,14 @@ L'objectif principal était d'appliquer les concepts fondamentaux de la programm
 
 ---
 
-## 🕹️ Commandes de Jeu
+## Commandes de Jeu
 
 - Utilisez les touches configurées (ou flèches directionnelles) pour déplacer les tuiles.
 - Atteignez la tuile **2048** pour gagner la partie !
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **Tiago Da Silva** — *Étudiant en Informatique*
 - GitHub : [@DiageGD](https://github.com/DiageGD)
